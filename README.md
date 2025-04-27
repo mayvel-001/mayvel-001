@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayvelnyakwara
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning html,css, JavaScript 
+- 🌱 I’m currently learning project management,html,css, JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 0757606307
 - 😄 Pronouns: ...
